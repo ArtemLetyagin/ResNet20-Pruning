@@ -1,5 +1,6 @@
 # ResNet20 Pruning
 ## Репозиторий:
+  * **ResNet20.py** - реализация модели ResNet20
   * **model.pth** - веса ResNet20 до прунинга
   * **first.py** - код первого метода
   * **second.py** - код второго метода
